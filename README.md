@@ -5,7 +5,7 @@ GuangLun (光轮) means Nimbus in Chinese ✨
 Here is **Hanlin Cai (Lance, 蔡汉霖)**. 
 
 This is the repository for my personal website.
-
+<!-- 
 ## Update and News
 
 - **Sep 2024:** This Github Page has reached **500+ Stars**🌟 Thank you for your support!!!
@@ -21,4 +21,4 @@ This is the repository for my personal website.
 
 ## Statement
 
-© 2024 Hanlin Cai. Published with [GitHub Pages](https://pages.github.com/), powered by [Jekyll](https://jekyllrb.com/), based on the [Minimal Mistakes](https://mademistakes.com/) theme and [Jason Ansel's site](https://github.com/jansel/jansel.github.io). Source code for this website can be found [here](https://github.com/GuangLun2000/GuangLun2000.github.io).
+© 2024 Hanlin Cai. Published with [GitHub Pages](https://pages.github.com/), powered by [Jekyll](https://jekyllrb.com/), based on the [Minimal Mistakes](https://mademistakes.com/) theme and [Jason Ansel's site](https://github.com/jansel/jansel.github.io). Source code for this website can be found [here](https://github.com/GuangLun2000/GuangLun2000.github.io). -->
