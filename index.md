@@ -7,7 +7,7 @@ layout: page
 <!-- <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic"> -->
 
 
-<img src="/images/hanlin.jpg.jpg" class="floatpic">
+<img src="/images/speech3.JPG" class="floatpic">
 
 
 
