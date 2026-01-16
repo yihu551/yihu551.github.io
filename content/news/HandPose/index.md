@@ -8,7 +8,7 @@ image:
   preview_only: true
   placement: 3
 slides: example
-summary: MediaPipe Hand Tracking
+summary: MediaPipe hand tracking to enable future fine-grained robotic hand control
 tags:
 # - Personal
 - ComputerVision
