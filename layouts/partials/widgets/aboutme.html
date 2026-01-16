@@ -1,0 +1,104 @@
+{{/* About Me 多相册轮播：自动读取 content/aboutme 下子页面资源；相册两列布局 */}}
+{{ $ := .root }}
+{{ $page := .page }}
+
+{{ $section := site.GetPage "section" "aboutme" }}
+{{ $albums := slice }}
+{{ if $section }}
+  {{ $albums = $section.Pages.ByWeight }}
+{{ end }}
+
+<section id="{{ $page.File.TranslationBaseName }}" class="home-section wg-aboutme section-gallery">
+  <div class="container">
+    <div class="row">
+      <!-- 左列标题 -->
+      <div class="col-12 col-lg-4 section-heading">
+        {{ with $page.Title }}<h1 class="section-title">{{ . | markdownify | emojify }}</h1>{{ end }}
+        {{ with $page.Params.subtitle }}<p class="section-subtitle">{{ . | markdownify | emojify }}</p>{{ end }}
+      </div>
+
+      <!-- 右列：相册（两列） -->
+      <div class="col-12 col-lg-8">
+        {{ if not (len $albums) }}
+          <p>没有找到相册目录。请确认 content/aboutme 下存在带 index.md 的子目录。</p>
+        {{ else }}
+          <div class="row g-4 aboutme-albums">
+            {{ range $albums }}
+              {{ $album := . }}
+              {{ $images := $album.Resources.ByType "image" }}
+              {{ if gt (len $images) 0 }}
+                {{ $imgList := slice }}
+                {{ range $images }}
+                  {{ $imgList = $imgList | append (dict "src" .RelPermalink "title" ($album.Title)) }}
+                {{ end }}
+                <div class="col-12">
+                  <div class="aboutme-album card h-100 shadow-sm" data-images='{{ $imgList | jsonify }}'>
+                    <div class="card-header py-2 fw-semibold">
+                      {{ $album.Title }}
+                    </div>
+
+                    <div class="album-content d-flex flex-column flex-md-row">
+                      <div class="album-text p-3">
+                        {{ with $album.Params.note }}
+                          {{ . | markdownify }}
+                        {{ else }}
+                          <p class="text-muted small mb-0">在该相册 index.md 添加 note 字段以填写说明。</p>
+                        {{ end }}
+                      </div>
+
+                      <div class="album-media flex-grow-1">
+                        <div class="album-image-wrapper ratio ratio-16x9 bg-light d-flex align-items-center justify-content-center">
+                          <img class="album-current img-fluid" src="{{ (index $images 0).RelPermalink }}" alt="{{ $album.Title }}">
+                        </div>
+                        <div class="album-controls d-flex justify-content-between align-items-center p-2">
+                          <button class="btn btn-sm btn-outline-secondary album-prev" type="button" aria-label="Previous">←</button>
+                          <span class="album-counter small">1 / {{ len $images }}</span>
+                          <button class="btn btn-sm btn-outline-secondary album-next" type="button" aria-label="Next">→</button>
+                        </div>
+                      </div>
+                    </div>
+
+                  </div>
+                </div>
+              {{ end }}
+            {{ end }}
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+
+  <script>
+    if(!window.AboutMeAlbumsInit){
+      window.AboutMeAlbumsInit = true;
+      document.addEventListener('DOMContentLoaded', function(){
+        document.querySelectorAll('.aboutme-album').forEach(function(card){
+          const dataAttr = card.getAttribute('data-images');
+          if(!dataAttr) return;
+          let images;
+          try { images = JSON.parse(dataAttr); } catch(e){ return; }
+          if(!images.length) return;
+          let index = 0;
+          const imgEl = card.querySelector('.album-current');
+          const counter = card.querySelector('.album-counter');
+          function update(){
+            const item = images[index];
+            if(!item) return;
+            imgEl.src = item.src;
+            imgEl.alt = item.title;
+            counter.textContent = (index + 1) + ' / ' + images.length;
+          }
+            card.querySelector('.album-prev').addEventListener('click', function(){
+              index = (index - 1 + images.length) % images.length;
+              update();
+            });
+            card.querySelector('.album-next').addEventListener('click', function(){
+              index = (index + 1) % images.length;
+              update();
+            });
+          update();
+        });
+      });
+    }
+  </script>
+</section>

@@ -1,0 +1,123 @@
+---
+# Display name
+title: "Yi Hu"
+
+# Full name (for SEO)
+first_name: Yi
+last_name: Hu
+
+# Status emoji
+status:
+  icon:
+
+# Is this the primary user of the site?
+superuser: true
+
+# Role/position/tagline
+role: Ph.D in Biomedical Engineering
+
+# Organizations/Affiliations to show in About widget
+organizations:
+  - name: University of Alberta
+    url: https://www.ualberta.ca/en/index.html
+
+# Short bio (displayed in user profile at end of posts)
+bio: Robotics engineer with learning machine learning to make robot automating task through foundation model, reinforcement learning and imitation learning.
+
+# Interests to show in About widget
+interests:
+  - Soft Matter
+  - Fluid at interface
+  - Computer simulations
+
+# Education to show in About widget
+education:
+  courses:
+    - course: PhD in Nanofluidics
+      institution: University of Lyon (France)
+      year: 2015
+
+# Social/Academic Networking
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+# Alternatively, use `google-scholar` icon from `ai` icon pack
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:hu19@ualberta.ca
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/simongravelle
+  #   display:
+  #     header: false
+  # - icon: mastodon
+  #   icon_pack: fab
+  #   link: https://mastodon.social/@simongravelle
+  #   label: Follow me on Mastodon
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.ca/citations?user=m2qt5WIAAAAJ&hl=en
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/jobs/ 
+  - icon: cv
+    icon_pack: ai
+    link: files/resume/Yi_Resume.pdf
+
+    #### static/files/resume/...
+
+
+highlight_name: true # Highlight the author in author lists? (true/false)
+---
+
+### Hey, here is Yi Hu! ##
+
+I am a Ph.D. student in Biomedical Engineering at [University of Alberta](https://www.ualberta.ca/en/index.html) under the supervision of [Dr. Jun Jin](https://apps.ualberta.ca/directory/person/jjin5). Currently, I focus on vision-language-action model with spatial module.
+
+<!-- I am a Ph.D. student in Biomedical Engineering at [University of Alberta](https://www.ualberta.ca/en/index.html) under the supervision of [Dr. Jun Jin](https://apps.ualberta.ca/directory/person/jjin5) and [Dr. Mahdi Tavakoli](https://www.ece.ualberta.ca/~mtavakol/pmwiki/). Currently, I focus on spatial vision-language-action model  -->
+
+
+<!-- I developed comprehensive background on robotic control from 3D modeling, control system design from dynamic and kinematic side, and intelligent method from deep neural network side. During my undergraduate study, I focused on the 3D modeling and physical simulation in which using Solidworks, AutoCAD, Analysis and Comsol. In my master study, I was working on the closed-loop control system design via Liyapunour proof, like adpative control, fuzzy control, model predictive control and backstep control. In my Ph.D study, I was working on the surgical robotic task autonomy using imitation learning, like ultrasoound scanning, endoscopic scanning, endoscopic traking and retreive picking, was deployed on the Panda robot, and Da Vinci robot. My current research interests forcus on Embodied AI, Imitation Learning and Reinbforcement learning. Exploring the spatial ability with vision language action model on robotic daily task.  -->
+
+
+
+
+<!-- <a href="https://github.com/simongravelle" target="_blank" style="float: right">
+  <img src="https://raw.githubusercontent.com/simongravelle/simongravelle.github.io/refs/heads/main/static/img/water-in-polymer.png" alt="Water in polymer - molecular dynamics" width="200">
+</a> -->
+
+
+
+<span style="display: block; height: 8px;"></span>
+
+<!-- ### Research Interests ##
+
+  - Imitation Leaning
+  - Embodied AI
+  - Control Theory
+  - Reinforcement Learning
+  - Surgical Robotic Tasks -->
+
+<span style="display: block; height: 8px;"></span>
+
+<!-- ### My primary outreach projects ##
+
+  - <a href="https://github.com/lammpstutorials" target="_blank" style="text-decoration: none;">LAMMPS tutorials</a> for LAMMPS beginners
+  - <a href="https://github.com/mdcourse" target="_blank" style="text-decoration: none;">Guides</a> for implementing molecular simulations from scratch -->
+
+
+<!-- ### Education ##
+
+- Ph.D. in Biomedical Engineering, 2021 - Now, [University of Alberta](https://www.ualberta.ca/en/index.html)
+- M.Sc. in Control Theory and Control Engineering, 2017 - 2020, [Sichuan University](https://en.scu.edu.cn/)
+- B.Sc. in Process Equipment and Control Engineering, 2013 - 2017, [Hefei University of Technology](https://www.hfut.edu.cn/) -->
+
+
+
+### Research ##
+
+- Spatial vision-language-action model
+- Autonomous robotic surgical task learning from reinforcement learning and imitation learning
+- Control theory and mathematical modelling
+- Mechanical modelling and finite element analysis

@@ -1,0 +1,33 @@
+---
+date: 2025-08-26
+publishDate: 2025-08-26
+external_link: ""
+image:
+  caption: VLA Realworld Validation
+  focal_point: Smart
+  preview_only: true
+  placement: 3
+slides: example
+summary: Collecting dataset using hand tracking teleoperation
+tags:
+# - Personal
+- DatasetCollection
+title:  Hand Tracking Teleoperation
+# links:
+#   - icon_pack: fas
+#     icon: scroll
+#     name: LIPhy
+#     url: 'https://liphy.univ-grenoble-alpes.fr/'
+type: "news"
+layout: "single"
+---
+
+
+
+{{< video src="handrobot.mp4" >}}
+
+
+
+<!-- Research associate on the MicroSep project since September 2025. -->
+
+Collecting dataset using hand tracking teleoperation for Franka robot, which can be used in training foundation model and imitation learning framework.
