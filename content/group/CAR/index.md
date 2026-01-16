@@ -18,7 +18,7 @@ title:  Magnetic Wheel Inspection Robot for the Secondary Side
 #     icon: scroll
 #     name: LIPhy
 #     url: 'https://liphy.univ-grenoble-alpes.fr/'
-type: "news"
+type: "group"
 layout: "single"
 ---
 
