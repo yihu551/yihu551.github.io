@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ControlTheory | Yi Hu</title><link>https://yihu551.github.io/tag/controltheory.html</link><atom:link href="https://yihu551.github.io/tag/controltheory/index.xml" rel="self" type="application/rss+xml"/><description>ControlTheory</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 14 Sep 2025 00:00:00 +0000</lastBuildDate><image><url>https://yihu551.github.io/media/icon_y_hu6062576646913215646.png</url><title>ControlTheory</title><link>https://yihu551.github.io/tag/controltheory.html</link></image><item><title>Dynamics and Kinematics Modeling</title><link>https://yihu551.github.io/news/modelling.html</link><pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/modelling.html</guid><description>
+&lt;figure id="figure-control-framework-for-input-saturation-and-unknown-external-disturbance">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Control framework for input saturation and unknown external disturbance" srcset="
+/news/modelling/image1_hu14371131613490829060.webp 400w,
+/news/modelling/image1_hu11237530000312831754.webp 760w,
+/news/modelling/image1_hu18287641929301003889.webp 1200w"
+src="../../news/modelling/image1_hu14371131613490829060.webp"
+width="760"
+height="644"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Control framework for input saturation and unknown external disturbance
+&lt;/figcaption>&lt;/figure>
+&lt;p>We built the dynamics and kinematics modeling for wheeled mobile robot.&lt;/p>
+&lt;p>Please find the detail from &lt;a href="https://ieeexplore.ieee.org/abstract/document/9050868" target="_blank" rel="noopener">Modeling and Trajectory Tracking Control for Magnetic Wheeled Mobile Robots Based on Improved Dual-Heuristic Dynamic Programming&lt;/a>&lt;/p></description></item><item><title>Actuator Saturation and Unknown Nonlinear Disturbance</title><link>https://yihu551.github.io/news/ndob.html</link><pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/ndob.html</guid><description>&lt;!-- Research associate on the MicroSep project since September 2025. -->
+&lt;figure id="figure-control-framework-for-input-saturation-and-unknown-external-disturbance">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Control framework for input saturation and unknown external disturbance" srcset="
+/news/ndob/image1_hu1177415499055688789.webp 400w,
+/news/ndob/image1_hu10386689168913596972.webp 760w,
+/news/ndob/image1_hu17039649935912892048.webp 1200w"
+src="../../news/ndob/image1_hu1177415499055688789.webp"
+width="760"
+height="595"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Control framework for input saturation and unknown external disturbance
+&lt;/figcaption>&lt;/figure>
+&lt;p>We address the actuator saturation and unknown nonlinear disturbance in flexible-joint manipulator.&lt;/p>
+&lt;p>Please find the detail from &lt;a href="https://www.sciencedirect.com/science/article/pii/S0925231220320397" target="_blank" rel="noopener">Observer-based dynamic surface control for flexible-joint manipulator system with input saturation and unknown disturbance using type-2 fuzzy neural network&lt;/a>&lt;/p></description></item><item><title>Data-driven Generalized Predictive Control</title><link>https://yihu551.github.io/news/datadriven.html</link><pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/datadriven.html</guid><description>
+&lt;figure id="figure-data-driven-generalized-predictive-control-workflow">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Data-driven generalized predictive control workflow" srcset="
+/news/datadriven/image1_hu10742334941215721401.webp 400w,
+/news/datadriven/image1_hu4982206892059722868.webp 760w,
+/news/datadriven/image1_hu37433726663607701.webp 1200w"
+src="../../news/datadriven/image1_hu10742334941215721401.webp"
+width="760"
+height="366"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Data-driven generalized predictive control workflow
+&lt;/figcaption>&lt;/figure>
+&lt;!-- Research associate on the MicroSep project since September 2025. -->
+&lt;p>We design a Data-driven generalized predictive control for car-like mobile robots.&lt;/p>
+&lt;p>Please find the detail from &lt;a href="https://onlinelibrary.wiley.com/doi/am-pdf/10.1002/asjc.2531" target="_blank" rel="noopener">Data-driven generalized predictive control for car-like mobile robots using interval type-2 T-S fuzzy neural network&lt;/a>&lt;/p></description></item><item><title>Double Closed-Loop General Type-2 Fuzzy Sliding Model Control</title><link>https://yihu551.github.io/news/doubleclosedloop.html</link><pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/doubleclosedloop.html</guid><description>
+&lt;figure id="figure-structure-diagram-of-double-closed-loop-control">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Structure diagram of double closed-loop control" srcset="
+/news/doubleclosedloop/image1_hu86383471932219743.webp 400w,
+/news/doubleclosedloop/image1_hu17397343891470684076.webp 760w,
+/news/doubleclosedloop/image1_hu14672081481191907467.webp 1200w"
+src="../../news/doubleclosedloop/image1_hu86383471932219743.webp"
+width="760"
+height="396"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Structure diagram of double closed-loop control
+&lt;/figcaption>&lt;/figure>
+&lt;!-- Research associate on the MicroSep project since September 2025. -->
+&lt;p>We design a double closed-loop general Type-2 fuzzy sliding model control for wheeled mobile robots.&lt;/p>
+&lt;p>Please find the detail from &lt;a href="https://link.springer.com/article/10.1007/s40815-019-00685-z" target="_blank" rel="noopener">Double Closed-Loop General Type-2 Fuzzy Sliding Model Control for Trajectory Tracking of Wheeled Mobile Robots&lt;/a>&lt;/p></description></item><item><title>Mismatched Uncertainties in Dynamic Model</title><link>https://yihu551.github.io/news/fuzzycontrol.html</link><pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/fuzzycontrol.html</guid><description>
+&lt;figure id="figure-fuzzy-neural-network-approximator">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Fuzzy neural network approximator" srcset="
+/news/fuzzycontrol/image1_hu10245264789597362618.webp 400w,
+/news/fuzzycontrol/image1_hu15455356628452008594.webp 760w,
+/news/fuzzycontrol/image1_hu7006086746353272909.webp 1200w"
+src="../../news/fuzzycontrol/image1_hu10245264789597362618.webp"
+width="760"
+height="538"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Fuzzy neural network approximator
+&lt;/figcaption>&lt;/figure>
+&lt;!-- Research associate on the MicroSep project since September 2025. -->
+&lt;p>We design an adaptive type-2 fuzzy neural network approximator for mismatched uncertainties in joint manipulator.&lt;/p>
+&lt;p>Please find the detail from &lt;a href="https://link.springer.com/article/10.1007/s11071-019-05073-8" target="_blank" rel="noopener">Adaptive backstepping control for flexible-joint manipulator using interval type-2 fuzzy neural network approximator&lt;/a>&lt;/p></description></item><item><title>Admittance control</title><link>https://yihu551.github.io/news/admittance.html</link><pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/admittance.html</guid><description>
+&lt;video autoplay loop >
+&lt;source src="../../news/admittance/admittance.mp4" type="video/mp4">
+&lt;/video>
+&lt;!-- Research associate on the MicroSep project since September 2025. -->
+&lt;p>We utilize admittance controller for human-robot compliance interaction, especially for collecting breast seroma ultrasound scanning dataset.&lt;/p></description></item></channel></rss>

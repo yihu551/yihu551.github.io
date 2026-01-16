@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>News | Yi Hu</title><link>https://yihu551.github.io/news.html</link><atom:link href="https://yihu551.github.io/news/index.xml" rel="self" type="application/rss+xml"/><description>News</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Oct 2025 00:00:00 +0000</lastBuildDate><image><url>https://yihu551.github.io/media/icon_y_hu6062576646913215646.png</url><title>News</title><link>https://yihu551.github.io/news.html</link></image><item><title>Diffusion Policy for Catching Ball Task</title><link>https://yihu551.github.io/news/catchball.html</link><pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/catchball.html</guid><description>
+&lt;video autoplay loop >
+&lt;source src="../news/catchball/catchball.mp4" type="video/mp4">
+&lt;/video>
+&lt;!-- Research associate on the MicroSep project since September 2025. -->
+&lt;p>Diffusion policy improved with fast inference for high-speed ball catching task&lt;/p></description></item><item><title>Vision-Language-Action Model Zero-shot Testing</title><link>https://yihu551.github.io/news/vla_validation.html</link><pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/vla_validation.html</guid><description>
+&lt;video autoplay loop >
+&lt;source src="../news/vla_validation/vla_validation.mp4" type="video/mp4">
+&lt;/video>
+&lt;!-- Research associate on the MicroSep project since September 2025. -->
+&lt;p>Zero-shot experiment for Openvla and Pi0 model checkpoints. The task instruction is &amp;ldquo;pick up orange and place it on plate&amp;rdquo;. Although both models failed, it shows that Pi0 model performs better than OpenVLA model.&lt;/p></description></item><item><title>OpenVLA/Pi0 with Spatial Module</title><link>https://yihu551.github.io/news/vla_libero.html</link><pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/vla_libero.html</guid><description>
+&lt;video autoplay loop >
+&lt;source src="../news/vla_libero/vla_libero.mp4" type="video/mp4">
+&lt;/video>
+&lt;p>Vision-language-action model integrated with spatial module, designed with causal attention and mixture-of-expert mechanism. Testing the model in Libero Spatial environment.&lt;/p></description></item><item><title>Transfer Human Daily Skills to Surgical Robot Tasks</title><link>https://yihu551.github.io/news/adlsurg.html</link><pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/adlsurg.html</guid><description>
+&lt;video autoplay loop >
+&lt;source src="../news/adlsurg/ADL.mp4" type="video/mp4">
+&lt;/video>
+&lt;p>Instead of using specific surgica task dataset, we utilized human daily dataset in learning robotic surgical tasks.&lt;/p>
+&lt;p>Patient Side Manipulator Picking Gauze
+&lt;video autoplay loop >
+&lt;source src="../news/adlsurg/PSMGauze.mp4" type="video/mp4">
+&lt;/video>&lt;/p>
+&lt;p>Endoscopic Camera Manipulator Localizing Gauze
+&lt;video autoplay loop >
+&lt;source src="../news/adlsurg/ECMStatic.mp4" type="video/mp4">
+&lt;/video>&lt;/p>
+&lt;p>Endoscopic Camera Manipulator Tracking Surgical Tool
+&lt;video autoplay loop >
+&lt;source src="../news/adlsurg/ECMActive.mp4" type="video/mp4">
+&lt;/video>&lt;/p></description></item><item><title>Learning Pseudo Surgical Skill Training Task</title><link>https://yihu551.github.io/news/ringrailtask.html</link><pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/ringrailtask.html</guid><description>
+&lt;video autoplay loop >
+&lt;source src="../news/ringrailtask/RingRail.mp4" type="video/mp4">
+&lt;/video>
+&lt;p>Ring-and-rail task is an experimental platform for training and testing the surgical skill that manipulating the ring get through the wire without any touches. We utilize autunomous ring-and-rail tasks using a noisy demonstration set.&lt;/p>
+&lt;p>Please find the detail from &lt;a href="https://www.sciencedirect.com/science/article/pii/S174680942500998X" target="_blank" rel="noopener">Learning from imperfect demonstrations in a surgical training task&lt;/a>&lt;/p></description></item><item><title>Autonomous Ultrasound Scanning</title><link>https://yihu551.github.io/news/ustask.html</link><pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/ustask.html</guid><description>
+&lt;video autoplay loop >
+&lt;source src="../news/ustask/US.mp4" type="video/mp4">
+&lt;/video>
+&lt;p>Autonomous ultrasound scanning for breast seroma using imitation learning&lt;/p>
+&lt;p>Please find the detail from &lt;a href="https://www.ece.ualberta.ca/~tbs/pmwiki/pdf/Hu-IROS-2023.pdf" target="_blank" rel="noopener">Autonomous ultrasound scanning towards standard plane using interval interaction probabilistic movement primitives&lt;/a>&lt;/p></description></item><item><title>Remote Ultrasound Scanning</title><link>https://yihu551.github.io/news/usarm.html</link><pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/usarm.html</guid><description>
+&lt;video autoplay loop >
+&lt;source src="../news/usarm/USArm.mp4" type="video/mp4">
+&lt;/video>
+&lt;p>Remote ultrasound scanning by hand pose detection&lt;/p></description></item><item><title>Hand Pose Detection</title><link>https://yihu551.github.io/news/handpose.html</link><pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/handpose.html</guid><description>
+&lt;video autoplay loop >
+&lt;source src="../news/handpose/hand_pose.mp4" type="video/mp4">
+&lt;/video>
+&lt;!-- Research associate on the MicroSep project since September 2025. -->
+&lt;p>Hand pose detection&lt;/p></description></item><item><title>Event Camera SLAM</title><link>https://yihu551.github.io/news/slam.html</link><pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/slam.html</guid><description>
+&lt;video autoplay loop >
+&lt;source src="../news/slam/SLAM.mp4" type="video/mp4">
+&lt;/video>
+&lt;p>DVS-SLAM framework converts asynchronous event streams into image frames, performs 6-DoF pose tracking and inverse-depth mapping through optimization.&lt;/p></description></item><item><title>Autonomous Endoscopic Camera Manipulator Scanning</title><link>https://yihu551.github.io/news/ecmrandmm.html</link><pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/ecmrandmm.html</guid><description>
+&lt;video autoplay loop >
+&lt;source src="../news/ecmrandmm/ECMRANDMM.mp4" type="video/mp4">
+&lt;/video>
+&lt;p>We proposed a label-free adaptive Gaussian sample consensus framework for imitation learning from a noisy demonstration set.&lt;/p>
+&lt;p>Please find the detail from &lt;a href="https://www.ece.ualberta.ca/~tbs/pmwiki/pdf/TMRB-Hu-2024.pdf" target="_blank" rel="noopener">Label-Free Adaptive Gaussian Sample Consensus Framework for Learning From Perfect and Imperfect Demonstrations&lt;/a>&lt;/p></description></item><item><title>Magnetic Wheel Robot Navigation Simulation in Unity</title><link>https://yihu551.github.io/news/car_unity.html</link><pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/car_unity.html</guid><description>
+&lt;video autoplay loop >
+&lt;source src="../news/car_unity/car_unity.mp4" type="video/mp4">
+&lt;/video>
+&lt;!-- Research associate on the MicroSep project since September 2025. -->
+&lt;p>Magnetic wheel robot navigation simulation in unity&lt;/p></description></item><item><title>Magnetic Wheel Inspection Robot for the Secondary Side</title><link>https://yihu551.github.io/news/car.html</link><pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/car.html</guid><description>
+&lt;video autoplay loop >
+&lt;source src="../news/car/CAR.mp4" type="video/mp4">
+&lt;/video>
+&lt;!-- Research associate on the MicroSep project since September 2025. -->
+&lt;p>Magnetic Wheel Inspection Robot for the Secondary Side&lt;/p></description></item><item><title>Dynamics and Kinematics Modeling</title><link>https://yihu551.github.io/news/modelling.html</link><pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/modelling.html</guid><description>
+&lt;figure id="figure-control-framework-for-input-saturation-and-unknown-external-disturbance">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Control framework for input saturation and unknown external disturbance" srcset="
+/news/modelling/image1_hu14371131613490829060.webp 400w,
+/news/modelling/image1_hu11237530000312831754.webp 760w,
+/news/modelling/image1_hu18287641929301003889.webp 1200w"
+src="../news/modelling/image1_hu14371131613490829060.webp"
+width="760"
+height="644"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Control framework for input saturation and unknown external disturbance
+&lt;/figcaption>&lt;/figure>
+&lt;p>We built the dynamics and kinematics modeling for wheeled mobile robot.&lt;/p>
+&lt;p>Please find the detail from &lt;a href="https://ieeexplore.ieee.org/abstract/document/9050868" target="_blank" rel="noopener">Modeling and Trajectory Tracking Control for Magnetic Wheeled Mobile Robots Based on Improved Dual-Heuristic Dynamic Programming&lt;/a>&lt;/p></description></item><item><title>Actuator Saturation and Unknown Nonlinear Disturbance</title><link>https://yihu551.github.io/news/ndob.html</link><pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/ndob.html</guid><description>&lt;!-- Research associate on the MicroSep project since September 2025. -->
+&lt;figure id="figure-control-framework-for-input-saturation-and-unknown-external-disturbance">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Control framework for input saturation and unknown external disturbance" srcset="
+/news/ndob/image1_hu1177415499055688789.webp 400w,
+/news/ndob/image1_hu10386689168913596972.webp 760w,
+/news/ndob/image1_hu17039649935912892048.webp 1200w"
+src="../news/ndob/image1_hu1177415499055688789.webp"
+width="760"
+height="595"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Control framework for input saturation and unknown external disturbance
+&lt;/figcaption>&lt;/figure>
+&lt;p>We address the actuator saturation and unknown nonlinear disturbance in flexible-joint manipulator.&lt;/p>
+&lt;p>Please find the detail from &lt;a href="https://www.sciencedirect.com/science/article/pii/S0925231220320397" target="_blank" rel="noopener">Observer-based dynamic surface control for flexible-joint manipulator system with input saturation and unknown disturbance using type-2 fuzzy neural network&lt;/a>&lt;/p></description></item><item><title>Data-driven Generalized Predictive Control</title><link>https://yihu551.github.io/news/datadriven.html</link><pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/datadriven.html</guid><description>
+&lt;figure id="figure-data-driven-generalized-predictive-control-workflow">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Data-driven generalized predictive control workflow" srcset="
+/news/datadriven/image1_hu10742334941215721401.webp 400w,
+/news/datadriven/image1_hu4982206892059722868.webp 760w,
+/news/datadriven/image1_hu37433726663607701.webp 1200w"
+src="../news/datadriven/image1_hu10742334941215721401.webp"
+width="760"
+height="366"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Data-driven generalized predictive control workflow
+&lt;/figcaption>&lt;/figure>
+&lt;!-- Research associate on the MicroSep project since September 2025. -->
+&lt;p>We design a Data-driven generalized predictive control for car-like mobile robots.&lt;/p>
+&lt;p>Please find the detail from &lt;a href="https://onlinelibrary.wiley.com/doi/am-pdf/10.1002/asjc.2531" target="_blank" rel="noopener">Data-driven generalized predictive control for car-like mobile robots using interval type-2 T-S fuzzy neural network&lt;/a>&lt;/p></description></item><item><title>Double Closed-Loop General Type-2 Fuzzy Sliding Model Control</title><link>https://yihu551.github.io/news/doubleclosedloop.html</link><pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/doubleclosedloop.html</guid><description>
+&lt;figure id="figure-structure-diagram-of-double-closed-loop-control">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Structure diagram of double closed-loop control" srcset="
+/news/doubleclosedloop/image1_hu86383471932219743.webp 400w,
+/news/doubleclosedloop/image1_hu17397343891470684076.webp 760w,
+/news/doubleclosedloop/image1_hu14672081481191907467.webp 1200w"
+src="../news/doubleclosedloop/image1_hu86383471932219743.webp"
+width="760"
+height="396"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Structure diagram of double closed-loop control
+&lt;/figcaption>&lt;/figure>
+&lt;!-- Research associate on the MicroSep project since September 2025. -->
+&lt;p>We design a double closed-loop general Type-2 fuzzy sliding model control for wheeled mobile robots.&lt;/p>
+&lt;p>Please find the detail from &lt;a href="https://link.springer.com/article/10.1007/s40815-019-00685-z" target="_blank" rel="noopener">Double Closed-Loop General Type-2 Fuzzy Sliding Model Control for Trajectory Tracking of Wheeled Mobile Robots&lt;/a>&lt;/p></description></item><item><title>Mismatched Uncertainties in Dynamic Model</title><link>https://yihu551.github.io/news/fuzzycontrol.html</link><pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/fuzzycontrol.html</guid><description>
+&lt;figure id="figure-fuzzy-neural-network-approximator">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Fuzzy neural network approximator" srcset="
+/news/fuzzycontrol/image1_hu10245264789597362618.webp 400w,
+/news/fuzzycontrol/image1_hu15455356628452008594.webp 760w,
+/news/fuzzycontrol/image1_hu7006086746353272909.webp 1200w"
+src="../news/fuzzycontrol/image1_hu10245264789597362618.webp"
+width="760"
+height="538"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Fuzzy neural network approximator
+&lt;/figcaption>&lt;/figure>
+&lt;!-- Research associate on the MicroSep project since September 2025. -->
+&lt;p>We design an adaptive type-2 fuzzy neural network approximator for mismatched uncertainties in joint manipulator.&lt;/p>
+&lt;p>Please find the detail from &lt;a href="https://link.springer.com/article/10.1007/s11071-019-05073-8" target="_blank" rel="noopener">Adaptive backstepping control for flexible-joint manipulator using interval type-2 fuzzy neural network approximator&lt;/a>&lt;/p></description></item><item><title>Admittance control</title><link>https://yihu551.github.io/news/admittance.html</link><pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/admittance.html</guid><description>
+&lt;video autoplay loop >
+&lt;source src="../news/admittance/admittance.mp4" type="video/mp4">
+&lt;/video>
+&lt;!-- Research associate on the MicroSep project since September 2025. -->
+&lt;p>We utilize admittance controller for human-robot compliance interaction, especially for collecting breast seroma ultrasound scanning dataset.&lt;/p></description></item><item><title>Hand Tracking Teleoperation</title><link>https://yihu551.github.io/news/handrobot.html</link><pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/handrobot.html</guid><description>
+&lt;video autoplay loop >
+&lt;source src="../news/handrobot/handrobot.mp4" type="video/mp4">
+&lt;/video>
+&lt;!-- Research associate on the MicroSep project since September 2025. -->
+&lt;p>Collecting dataset using hand tracking teleoperation for Franka robot, which can be used in training foundation model and imitation learning framework.&lt;/p></description></item><item><title>Kinesthic Operation</title><link>https://yihu551.github.io/news/kinethetic.html</link><pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/kinethetic.html</guid><description>
+&lt;video autoplay loop >
+&lt;source src="../news/kinethetic/Kinethetic.mp4" type="video/mp4">
+&lt;/video>
+&lt;!-- Research associate on the MicroSep project since September 2025. -->
+&lt;p>Collecting dataset using admittance control for Franka robot, which can be used in training foundation model and imitation learning framework.&lt;/p></description></item><item><title>Joystick Teleoperation</title><link>https://yihu551.github.io/news/joystick_tele.html</link><pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/joystick_tele.html</guid><description>
+&lt;video autoplay loop >
+&lt;source src="../news/joystick_tele/joystick.mp4" type="video/mp4">
+&lt;/video>
+&lt;!-- Research associate on the MicroSep project since September 2025. -->
+&lt;p>Collecting dataset using joystick teleoperation for Franka robot, which can be used in training foundation model and imitation learning framework.&lt;/p></description></item></channel></rss>

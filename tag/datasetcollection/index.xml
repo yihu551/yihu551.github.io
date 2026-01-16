@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DatasetCollection | Yi Hu</title><link>https://yihu551.github.io/tag/datasetcollection.html</link><atom:link href="https://yihu551.github.io/tag/datasetcollection/index.xml" rel="self" type="application/rss+xml"/><description>DatasetCollection</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 26 Aug 2025 00:00:00 +0000</lastBuildDate><image><url>https://yihu551.github.io/media/icon_y_hu6062576646913215646.png</url><title>DatasetCollection</title><link>https://yihu551.github.io/tag/datasetcollection.html</link></image><item><title>Hand Tracking Teleoperation</title><link>https://yihu551.github.io/news/handrobot.html</link><pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/handrobot.html</guid><description>
+&lt;video autoplay loop >
+&lt;source src="../../news/handrobot/handrobot.mp4" type="video/mp4">
+&lt;/video>
+&lt;!-- Research associate on the MicroSep project since September 2025. -->
+&lt;p>Collecting dataset using hand tracking teleoperation for Franka robot, which can be used in training foundation model and imitation learning framework.&lt;/p></description></item><item><title>Kinesthic Operation</title><link>https://yihu551.github.io/news/kinethetic.html</link><pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/kinethetic.html</guid><description>
+&lt;video autoplay loop >
+&lt;source src="../../news/kinethetic/Kinethetic.mp4" type="video/mp4">
+&lt;/video>
+&lt;!-- Research associate on the MicroSep project since September 2025. -->
+&lt;p>Collecting dataset using admittance control for Franka robot, which can be used in training foundation model and imitation learning framework.&lt;/p></description></item><item><title>Joystick Teleoperation</title><link>https://yihu551.github.io/news/joystick_tele.html</link><pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/joystick_tele.html</guid><description>
+&lt;video autoplay loop >
+&lt;source src="../../news/joystick_tele/joystick.mp4" type="video/mp4">
+&lt;/video>
+&lt;!-- Research associate on the MicroSep project since September 2025. -->
+&lt;p>Collecting dataset using joystick teleoperation for Franka robot, which can be used in training foundation model and imitation learning framework.&lt;/p></description></item></channel></rss>
