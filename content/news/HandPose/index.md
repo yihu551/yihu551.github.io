@@ -8,11 +8,11 @@ image:
   preview_only: true
   placement: 3
 slides: example
-summary: Hand pose detection
+summary: MediaPipe Hand Tracking
 tags:
 # - Personal
 - ComputerVision
-title:  Hand Pose Detection
+title:  MediaPipe Hand Tracking
 # links:
 #   - icon_pack: fas
 #     icon: scroll
@@ -30,4 +30,4 @@ layout: "single"
 
 <!-- Research associate on the MicroSep project since September 2025. -->
 
-Hand pose detection
+Implemented a MediaPipe-based real-time hand tracking system to enable future fine-grained robotic hand and finger control.
