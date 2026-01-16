@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>News | Yi Hu</title><link>https://yihu551.github.io/news.html</link><atom:link href="https://yihu551.github.io/news/index.xml" rel="self" type="application/rss+xml"/><description>News</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Oct 2025 00:00:00 +0000</lastBuildDate><image><url>https://yihu551.github.io/media/icon_y_hu6062576646913215646.png</url><title>News</title><link>https://yihu551.github.io/news.html</link></image><item><title>Diffusion Policy for Catching Ball Task</title><link>https://yihu551.github.io/news/catchball.html</link><pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/catchball.html</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>News | Yi Hu</title><link>https://yihu551.github.io/news.html</link><atom:link href="https://yihu551.github.io/news/index.xml" rel="self" type="application/rss+xml"/><description>News</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Oct 2025 00:00:00 +0000</lastBuildDate><image><url>https://yihu551.github.io/media/icon_y_hu6062576646913215646.png</url><title>News</title><link>https://yihu551.github.io/news.html</link></image><item><title>Fast Inference Diffusion Policy for Robot Ball Catching Task</title><link>https://yihu551.github.io/news/catchball.html</link><pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/catchball.html</guid><description>
 &lt;video autoplay loop >
 &lt;source src="../news/catchball/catchball.mp4" type="video/mp4">
 &lt;/video>
 &lt;!-- Research associate on the MicroSep project since September 2025. -->
-&lt;p>Diffusion policy improved with fast inference for high-speed ball catching task&lt;/p></description></item><item><title>Vision-Language-Action Model Zero-shot Testing</title><link>https://yihu551.github.io/news/vla_validation.html</link><pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/vla_validation.html</guid><description>
+&lt;p>Developed a diffusion-based imitation learning framework with probabilistic dynamic movement primitives that distills multi-step denoising into a single-step inference process, enabling fast action generation and validated on a robotic ball-catching task.&lt;/p></description></item><item><title>Vision-Language-Action Model Zero-shot Testing</title><link>https://yihu551.github.io/news/vla_validation.html</link><pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/vla_validation.html</guid><description>
 &lt;video autoplay loop >
 &lt;source src="../news/vla_validation/vla_validation.mp4" type="video/mp4">
 &lt;/video>
@@ -52,21 +52,16 @@
 &lt;source src="../news/handpose/hand_pose.mp4" type="video/mp4">
 &lt;/video>
 &lt;!-- Research associate on the MicroSep project since September 2025. -->
-&lt;p>Hand pose detection&lt;/p></description></item><item><title>Event Camera SLAM</title><link>https://yihu551.github.io/news/slam.html</link><pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/slam.html</guid><description>
+&lt;p>Hand pose detection&lt;/p></description></item><item><title>Event-based Monocular SLAM</title><link>https://yihu551.github.io/news/slam.html</link><pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/slam.html</guid><description>
 &lt;video autoplay loop >
 &lt;source src="../news/slam/SLAM.mp4" type="video/mp4">
 &lt;/video>
-&lt;p>DVS-SLAM framework converts asynchronous event streams into image frames, performs 6-DoF pose tracking and inverse-depth mapping through optimization.&lt;/p></description></item><item><title>Magnetic Wheel Robot Navigation Simulation in Unity</title><link>https://yihu551.github.io/news/car_unity.html</link><pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/car_unity.html</guid><description>
+&lt;p>Developed an event-based monocular SLAM pipeline by transforming asynchronous event streams into optimizable time-surface representations, enabling 6-DoF pose tracking, inverse-depth mapping, and back-end optimization.&lt;/p></description></item><item><title>Vehicle Wheel Robot Navigation Simulation in Unity</title><link>https://yihu551.github.io/news/car_unity.html</link><pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/car_unity.html</guid><description>
 &lt;video autoplay loop >
 &lt;source src="../news/car_unity/car_unity.mp4" type="video/mp4">
 &lt;/video>
 &lt;!-- Research associate on the MicroSep project since September 2025. -->
-&lt;p>Magnetic wheel robot navigation simulation in unity&lt;/p></description></item><item><title>Magnetic Wheel Inspection Robot for the Secondary Side</title><link>https://yihu551.github.io/news/car.html</link><pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/car.html</guid><description>
-&lt;video autoplay loop >
-&lt;source src="../news/car/CAR.mp4" type="video/mp4">
-&lt;/video>
-&lt;!-- Research associate on the MicroSep project since September 2025. -->
-&lt;p>Magnetic Wheel Inspection Robot for the Secondary Side&lt;/p></description></item><item><title>Dynamics and Kinematics Modeling</title><link>https://yihu551.github.io/news/modelling.html</link><pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/modelling.html</guid><description>
+&lt;p>Implemented a Unity-based navigation simulation for a wheeled mobile robot, featuring an onboard camera for visual perception navigation.&lt;/p></description></item><item><title>Dynamics and Kinematics Modeling</title><link>https://yihu551.github.io/news/modelling.html</link><pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/modelling.html</guid><description>
 &lt;figure id="figure-control-framework-for-input-saturation-and-unknown-external-disturbance">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Control framework for input saturation and unknown external disturbance" srcset="
