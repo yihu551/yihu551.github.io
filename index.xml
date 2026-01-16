@@ -34,7 +34,12 @@
 &lt;p>Endoscopic Camera Manipulator Tracking Surgical Tool
 &lt;video autoplay loop >
 &lt;source src="./news/adlsurg/ECMActive.mp4" type="video/mp4">
-&lt;/video>&lt;/p></description></item><item><title>Learning Pseudo Surgical Skill Training Task</title><link>https://yihu551.github.io/news/ringrailtask.html</link><pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/ringrailtask.html</guid><description>
+&lt;/video>&lt;/p></description></item><item><title>Autonomous Endoscopic Camera Manipulator Scanning</title><link>https://yihu551.github.io/news/ecmrandmm.html</link><pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/ecmrandmm.html</guid><description>
+&lt;video autoplay loop >
+&lt;source src="./news/ecmrandmm/ECMRANDMM.mp4" type="video/mp4">
+&lt;/video>
+&lt;p>We proposed a label-free adaptive Gaussian sample consensus framework for imitation learning from a noisy demonstration set.&lt;/p>
+&lt;p>Please find the detail from &lt;a href="https://www.ece.ualberta.ca/~tbs/pmwiki/pdf/TMRB-Hu-2024.pdf" target="_blank" rel="noopener">Label-Free Adaptive Gaussian Sample Consensus Framework for Learning From Perfect and Imperfect Demonstrations&lt;/a>&lt;/p></description></item><item><title>Learning Pseudo Surgical Skill Training Task</title><link>https://yihu551.github.io/news/ringrailtask.html</link><pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/ringrailtask.html</guid><description>
 &lt;video autoplay loop >
 &lt;source src="./news/ringrailtask/RingRail.mp4" type="video/mp4">
 &lt;/video>
@@ -61,12 +66,7 @@
 &lt;video autoplay loop >
 &lt;source src="./news/slam/SLAM.mp4" type="video/mp4">
 &lt;/video>
-&lt;p>DVS-SLAM framework converts asynchronous event streams into image frames, performs 6-DoF pose tracking and inverse-depth mapping through optimization.&lt;/p></description></item><item><title>Autonomous Endoscopic Camera Manipulator Scanning</title><link>https://yihu551.github.io/news/ecmrandmm.html</link><pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/ecmrandmm.html</guid><description>
-&lt;video autoplay loop >
-&lt;source src="./news/ecmrandmm/ECMRANDMM.mp4" type="video/mp4">
-&lt;/video>
-&lt;p>We proposed a label-free adaptive Gaussian sample consensus framework for imitation learning from a noisy demonstration set.&lt;/p>
-&lt;p>Please find the detail from &lt;a href="https://www.ece.ualberta.ca/~tbs/pmwiki/pdf/TMRB-Hu-2024.pdf" target="_blank" rel="noopener">Label-Free Adaptive Gaussian Sample Consensus Framework for Learning From Perfect and Imperfect Demonstrations&lt;/a>&lt;/p></description></item><item><title>Magnetic Wheel Robot Navigation Simulation in Unity</title><link>https://yihu551.github.io/news/car_unity.html</link><pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/car_unity.html</guid><description>
+&lt;p>DVS-SLAM framework converts asynchronous event streams into image frames, performs 6-DoF pose tracking and inverse-depth mapping through optimization.&lt;/p></description></item><item><title>Magnetic Wheel Robot Navigation Simulation in Unity</title><link>https://yihu551.github.io/news/car_unity.html</link><pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/car_unity.html</guid><description>
 &lt;video autoplay loop >
 &lt;source src="./news/car_unity/car_unity.mp4" type="video/mp4">
 &lt;/video>
