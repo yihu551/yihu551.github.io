@@ -1,35 +1,32 @@
 ---
-date: 2025-05-06
-publishDate: 2025-05-06
+date: 2025-09-15
+publishDate: 2025-09-15
 external_link: ""
 image:
-  caption: SLAM
+  caption: Magnetic Wheel Robot for Inspection
   focal_point: Smart
   preview_only: true
   placement: 3
 slides: example
-summary: This marks the official start of the JCJC ANR project 'MicroSep'. Our goal is to explore fluid mixtures transport in microporous materials using molecular simulations.
+summary: Magnetic wheel inspection robot for the secondary side
 tags:
 # - Personal
-- Robotics
-title:  SLAM
+- TeleRobot
+title:  Magnetic Wheel Inspection Robot for the Secondary Side
 # links:
 #   - icon_pack: fas
 #     icon: scroll
 #     name: LIPhy
 #     url: 'https://liphy.univ-grenoble-alpes.fr/'
-type: "group"
+type: "news"
 layout: "single"
 ---
 
 
 
-{{< video src="SLAM.mp4" >}}
+{{< video src="CAR.mp4" >}}
 
 
 
 <!-- Research associate on the MicroSep project since September 2025. -->
-
-Working with the surgical robot. A da Vinci robot is a robotic surgical system manufactured by Intuitive Surgical that enables minimally invasive surgery. 
-
-A surgeon controls the robot's arms from a console, where they see a 3D, magnified view of the surgical site and can manipulate instruments with greater precision than is possible by hand. This technology allows for procedures to be performed with smaller incisions, which can lead to benefits like shorter recovery times, less pain, and a reduced hospital stay for patients.  
+Magnetic Wheel Inspection Robot for the Secondary Side

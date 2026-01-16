@@ -8,11 +8,11 @@ image:
   preview_only: true
   placement: 3
 slides: example
-summary: Magnetic wheel robot navigation simulation in Unity
+summary: Vehicle wheel robot navigation simulation in Unity
 tags:
 # - Personal
 - TeleRobot
-title:  Magnetic Wheel Robot Navigation Simulation in Unity
+title:  Vehicle Wheel Robot Navigation Simulation in Unity
 # links:
 #   - icon_pack: fas
 #     icon: scroll
@@ -30,6 +30,6 @@ layout: "single"
 
 <!-- Research associate on the MicroSep project since September 2025. -->
 
-Magnetic wheel robot navigation simulation in unity
+Implemented a Unity-based navigation simulation for a wheeled mobile robot, featuring an onboard camera for visual perception navigation.
 
 

@@ -8,11 +8,11 @@ image:
   preview_only: true
   placement: 3
 slides: example
-summary: Diffusion policy improved with fast inference for high-speed ball catching task
+summary: Diffusion policy improved with movement prmitives for fast inference ball catching task
 tags:
 # - Personal
 - AutoRobot
-title:  Diffusion Policy for Catching Ball Task
+title:  Fast Inference Diffusion Policy for Robot Ball Catching Task
 # links:
 #   - icon_pack: fas
 #     icon: scroll
@@ -29,4 +29,4 @@ layout: "single"
 
 
 <!-- Research associate on the MicroSep project since September 2025. -->
-Diffusion policy improved with fast inference for high-speed ball catching task
+Developed a diffusion-based imitation learning framework with probabilistic dynamic movement primitives that distills multi-step denoising into a single-step inference process, enabling fast action generation and validated on a robotic ball-catching task.
