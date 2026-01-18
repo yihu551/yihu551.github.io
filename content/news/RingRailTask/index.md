@@ -8,7 +8,7 @@ image:
   preview_only: true
   placement: 3
 slides: example
-summary: Learning pseudo surgical kkill training task (ring-and-rail task) using a noisy demonstration set.
+summary: Learning pseudo surgical skill training task (ring-and-rail task) using a noisy demonstration set.
 tags:
 # - Personal
 - AutoRobot
