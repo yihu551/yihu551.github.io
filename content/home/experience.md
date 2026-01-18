@@ -26,8 +26,9 @@ experience:
       - **Force-Aware Autonomous Medical Scanning:** Developed a complete autonomous ultrasound scanning system for a Franka robot, integrating admittance control for compliant tissue contact and a force regulation policy. Trained and deployed a U-Net model for real-time ultrasound image assessment, creating a closed-loop framework for scan quality and probe positioning.
       - **Optimized Surgical Workspace View Control:** Implemented an autonomous endoscopic camera control system for the da Vinci robot. Applied unsupervised learning to derive motion primitives from surgical demonstrations, generating optimized, occlusion-free camera trajectories within the constrained anatomical workspace.
       - **Constrained Motion Planning for Precision Surgery:** Engineered a collision-aware 6-DoF motion planning stack for the da Vinci Patient Side Manipulator (PSM). Developed algorithms for smooth trajectory generation with orientation constraints, enabling precise and safe tool manipulation in confined surgical environments.
-      - **Intuitive Hand-Pose Teleoperation System:** Built a robust teleoperation interface using 3D hand pose estimation via MediaPipe. Mapped 6-DoF human hand motions to robot end-effector commands with dynamic safety constraints and implemented gesture recognition for triggering discrete robotic actions during ultrasound probe manipulation.
-      **Skills:** PyTorch, Tensorflow, ROS, ROS2, MuJoCo, Gazebo, V-REP, Gym \
+      - **Intuitive Hand-Pose Teleoperation System:** Built a robust teleoperation interface using 3D hand pose estimation via MediaPipe. Mapped 6-DoF human hand motions to robot end-effector commands with dynamic safety constraints and implemented gesture recognition for triggering discrete robotic actions during ultrasound probe manipulation. \
+
+      **Skills:** PyTorch, Tensorflow, ROS, ROS2, MuJoCo, Gazebo, V-REP, Gym 
       
         
 
@@ -42,9 +43,10 @@ experience:
       **Research:**
       - **Navigation & Localization:** Developed a event-camera (DVS) visual SLAM pipeline, fusing asynchronous event data with wheel odometry and IMU measurements. This multimodal approach enhanced localization robustness and accuracy during long-duration, navigation for a mobile inspection robot.
       - **Advanced Manipulator Control under Constraints:** Designed robust nonlinear control algorithms for fixed-joint robotic manipulators, explicitly accounting for actuator saturation bounds and modeled external disturbances. 
-      - ***Model-Based Mobile Robot Control:* Derived and implemented kinematic and dynamic models for a differential-drive mobile robot platform. Developed and tuned model-predictive trajectory tracking controllers to achieve precise path following and positioning.
-      - **Navigation & Vision Unity Simulation:** Developed a Unity-based simulation environment for vehicle wheel robot navigation and visual localization. The environment featured synthetic sensor feeds for camera-based visual localization algorithms.
-      **Skills:** Matlab/Simulink, ROS, Unity, OpenCV, PyTorch \
+      - ***Model-Based Mobile Robot Control:** Derived and implemented kinematic and dynamic models for a differential-drive mobile robot platform. Developed and tuned model-predictive trajectory tracking controllers to achieve precise path following and positioning.
+      - **Navigation & Vision Unity Simulation:** Developed a Unity-based simulation environment for vehicle wheel robot navigation and visual localization. The environment featured synthetic sensor feeds for camera-based visual localization algorithms. \
+
+      **Skills:** Matlab/Simulink, ROS, Unity, OpenCV, PyTorch 
 
 
 
@@ -59,8 +61,9 @@ experience:
       **Research:**
       - **2D Modeling** Engineered 2D fabrication drawings for an ionization gauge in AutoCAD, defining critical mechanical interfaces, tolerances, and manufacturing specifications to guide precision machining and assembly.
       - **3D Modeling**: Developed a 3D CAD assembly model in SolidWorks, incorporating all mechanical and structural components to validate fit, function, and serviceability prior to prototyping.
-      - **Multiphysics Simulation:** Conducted coupled multiphysics simulations in COMSOL, performing structural FEA and electromagnetic field analysis to evaluate mechanical integrity and field distribution under operational conditions.
-      **Skills:** AutoCAD, Ansys, SolidWorks, Comsol \
+      - **Multiphysics Simulation:** Conducted coupled multiphysics simulations in COMSOL, performing structural FEA and electromagnetic field analysis to evaluate mechanical integrity and field distribution under operational conditions. \
+      
+      **Skills:** AutoCAD, Ansys, SolidWorks, Comsol 
 
 
 
