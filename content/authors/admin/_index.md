@@ -73,7 +73,7 @@ highlight_name: true # Highlight the author in author lists? (true/false)
 
 ### Hey, here is Yi Hu! ##
 
-I am a Ph.D. student in Biomedical Engineering at [University of Alberta](https://www.ualberta.ca/en/index.html) under the supervision of [Dr. Jun Jin](https://apps.ualberta.ca/directory/person/jjin5). Currently, I focus on vision-language-action model with spatial module.
+I am a Ph.D. student in Biomedical Engineering at [University of Alberta](https://www.ualberta.ca/en/index.html) under the supervision of [Dr. Jun Jin](https://apps.ualberta.ca/directory/person/jjin5). Currently, I focus on developing and deploying vision-language-action models, diffusion policies, reinforcement learning, and imitation learning frameworks for real-world daily manipulation (Franka robot) and surgical tasks (da Vinci robot). Extensive experience in multimodal sensor fusion, real-time motion planning, and robust control design, validated on the vehicle wheel robot.
 
 <!-- I am a Ph.D. student in Biomedical Engineering at [University of Alberta](https://www.ualberta.ca/en/index.html) under the supervision of [Dr. Jun Jin](https://apps.ualberta.ca/directory/person/jjin5) and [Dr. Mahdi Tavakoli](https://www.ece.ualberta.ca/~mtavakol/pmwiki/). Currently, I focus on spatial vision-language-action model  -->
 
@@ -117,7 +117,9 @@ I am a Ph.D. student in Biomedical Engineering at [University of Alberta](https:
 
 ### Research ##
 
-- Spatial vision-language-action model
-- Autonomous robotic surgical task learning from reinforcement learning and imitation learning
-- Control theory and mathematical modelling
-- Mechanical modelling and finite element analysis
+- Vision-Language-Action Models with 3D Spatial Reasoning
+- Cross-Embodiment Reinforcement Learning
+- Imitation Learning with Suboptimal Demonstrations
+- Kinematic/Dynamic Modeling for Mobile Robot
+- Motion Planning & Nonlinear Control
+- Electromagnetic Field Analysis
