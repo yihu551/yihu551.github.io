@@ -73,7 +73,7 @@ highlight_name: true # Highlight the author in author lists? (true/false)
 
 ### Hey, here is Yi Hu! ##
 
-I am a Ph.D. candidate in Biomedical Engineering at [University of Alberta](https://www.ualberta.ca/en/index.html) under the supervision of [Dr. Jun Jin](https://apps.ualberta.ca/directory/person/jjin5). Currently, I focus on developing vision-language-action model with 3D spatial reasoning on real-world daily manipuation (Franka robot). Extensive experience in improving robotic surgical task (da Vinci robot) learning from cross-domain dataset and suboptimal dataset. Prior experience in modeling, motion planning and nonlinear control for the vehicle wheel robot.
+I am a Ph.D. candidate in Biomedical Engineering at [University of Alberta](https://www.ualberta.ca/en/index.html) under the supervision of [Dr. Jun Jin](https://apps.ualberta.ca/directory/person/jjin5) and [Dr. Mahdi Tavakoli](https://apps.ualberta.ca/directory/person/mtavakol). Currently, I focus on developing vision-language-action model with 3D spatial reasoning on real-world daily manipuation (Franka robot). Extensive experience in improving robotic surgical task (da Vinci robot) learning from cross-domain dataset and suboptimal dataset. Prior experience in modeling, motion planning and nonlinear control for the vehicle wheel robot.
 
 
 <!-- I am a Ph.D. student in Biomedical Engineering at [University of Alberta](https://www.ualberta.ca/en/index.html) under the supervision of [Dr. Jun Jin](https://apps.ualberta.ca/directory/person/jjin5) and [Dr. Mahdi Tavakoli](https://www.ece.ualberta.ca/~mtavakol/pmwiki/). Currently, I focus on spatial vision-language-action model  -->
