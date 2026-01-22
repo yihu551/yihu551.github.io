@@ -20,6 +20,75 @@ experience:
     date_end: ''
     description: |
       **Research:**
+      - **Vision-Lanuage-Action Model** 
+      - **Reinforcemen Learning** 
+      - **Imitation Learning** 
+
+      **Skills:** PyTorch, Tensorflow, ROS, ROS2, MuJoCo, Gazebo, V-REP, Gym 
+      
+        
+
+  - title: MSc in Control Theory and Control Engineering
+    company: Sichuan University
+    company_url: https://www.scu.edu.cn/
+    company_logo: ''
+    location: Chengdu, China
+    date_start: '2017-07-01'
+    date_end: '2020-09-01'
+    description: |
+      **Research:**
+      - **SLAM**
+      - **Motion Planning**
+      - **Control Theory**
+
+      **Skills:** Matlab/Simulink, ROS, Unity, OpenCV, PyTorch 
+
+
+
+  - title: B.S. in Process Equipment and Control Engineering
+    company: Hefei University of Technology
+    company_url: https://www.hfut.edu.cn/
+    company_logo: ''
+    location: Hefei, China
+    date_start: '2013-09-01'
+    date_end: '2017-07-01'
+    description: |
+      **Research:**
+      - **2D Drawing** 
+      - **3D Modeling** 
+      - **Finite Element Analysis** 
+      **Skills:** AutoCAD, Ansys, SolidWorks, Comsol 
+
+
+
+
+design:
+  columns: '2'
+---
+
+
+<!-- ---
+widget: experience
+widget_id: experience
+
+
+active: true
+headless: true
+weight: 20  
+
+title: Education
+subtitle: ""
+
+experience:
+  - title: PhD in Biomedical Engineer
+    company: University of Alberta
+    company_url: https://www.ualberta.ca/
+    company_logo: ''
+    location: Edmonton, Canada
+    date_start: '2021-01-01'
+    date_end: ''
+    description: |
+      **Research:**
       - **Multimodal VLA Integration for 3D-Aware Manipulation:** Enhanced large Vision-Language-Action models by integrating a 3D spatial representation module, enabling cross-modal fusion for geometrically grounded tasks. Designed a Mixture-of-Experts action head to specialize in spatial reasoning. Fine-tuned models (Pi0, OpenVLA) on real-world robotic datasets and deployed the optimized system for real-time RGB-D inference and task execution on a Franka manipulator.
       - **High-Speed Diffusion Policy for Dynamic Tasks:** Architected a single-step diffusion framework to generate temporally structured motion primitives, enabling reactive, high-speed manipulation. Achieved a 7-10x inference speedup in simulation (MetaWorld, ManiSkills) and validated performance on physical hardware by successfully executing a dynamic ball-catching task with a Franka robot.
       - **Cross-Embodiment RL for Surgical Skill Transfer:** Engineered a reinforcement learning framework to transfer motion priors from human activity demonstrations to robotic surgical tasks. Validated the framework on a da Vinci Surgical System, enabling autonomous, precise tool manipulation and optimized endoscopic camera control derived from human demonstration data.
@@ -70,7 +139,7 @@ experience:
 
 design:
   columns: '2'
----
+--- -->
 
 <!-- 
 # GPA: 3.96/4 (18.65/20.00)  
@@ -79,3 +148,4 @@ design:
 
 <!-- **Thesis:** Adaptive Fuzzy Control for Flexible-Joint Manipulator -->
 <!-- **Thesis:** Optimized Design and Structural Simulation of the Ionization Gauge in a Negative Pressure System -->
+
