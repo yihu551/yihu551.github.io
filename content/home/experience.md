@@ -20,9 +20,9 @@ experience:
     date_end: ''
     description: |
       **Research:**
-      - **Vision-Lanuage-Action Model** 
-      - **Reinforcemen Learning** 
-      - **Imitation Learning** 
+      - Vision-Lanuage-Action Model
+      - Reinforcemen Learning
+      - Imitation Learning
 
       **Skills:** PyTorch, Tensorflow, ROS, ROS2, MuJoCo, Gazebo, V-REP, Gym 
       
@@ -37,9 +37,9 @@ experience:
     date_end: '2020-09-01'
     description: |
       **Research:**
-      - **SLAM**
-      - **Motion Planning**
-      - **Control Theory**
+      - SLAM
+      - Motion Planning
+      - Control Theory
 
       **Skills:** Matlab/Simulink, ROS, Unity, OpenCV, PyTorch 
 
@@ -54,9 +54,10 @@ experience:
     date_end: '2017-07-01'
     description: |
       **Research:**
-      - **2D Drawing** 
-      - **3D Modeling** 
-      - **Finite Element Analysis** 
+      - 2D Drawing
+      - 3D Modeling
+      - Finite Element Analysis
+
       **Skills:** AutoCAD, Ansys, SolidWorks, Comsol 
 
 
