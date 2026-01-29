@@ -22,20 +22,20 @@ organizations:
     url: https://www.ualberta.ca/en/index.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: Robot Engineer and Machine Learning Engineer
+bio: Robotics Engineer and Machine Learning Engineer
 
-# Interests to show in About widget
-interests:
-  - Soft Matter
-  - Fluid at interface
-  - Computer simulations
+# # Interests to show in About widget
+# interests:
+#   - Soft Matter
+#   - Fluid at interface
+#   - Computer simulations
 
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Nanofluidics
-      institution: University of Lyon (France)
-      year: 2015
+# # Education to show in About widget
+# education:
+#   courses:
+#     - course: PhD in Nanofluidics
+#       institution: University of Lyon (France)
+#       year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -73,7 +73,7 @@ highlight_name: true # Highlight the author in author lists? (true/false)
 
 ### Hey, here is Yi Hu! ##
 
-I am a Ph.D. candidate in Biomedical Engineering at [University of Alberta](https://www.ualberta.ca/en/index.html) under the supervision of [Dr. Jun Jin](https://apps.ualberta.ca/directory/person/jjin5) and [Dr. Mahdi Tavakoli](https://apps.ualberta.ca/directory/person/mtavakol). Currently, I focus on developing vision-language-action model with 3D spatial reasoning on real-world daily manipuation. Extensive experience in improving robotic surgical task learning from cross-domain dataset and suboptimal dataset. Prior experience in modeling, motion planning and nonlinear control for the vehicle wheel robot.
+I am a Ph.D. candidate in Biomedical Engineering at [University of Alberta](https://www.ualberta.ca/en/index.html) under the supervision of [Dr. Jun Jin](https://apps.ualberta.ca/directory/person/jjin5) and [Dr. Mahdi Tavakoli](https://apps.ualberta.ca/directory/person/mtavakol). PhD researcher specialized in embodied AI and surgical robotics. Developed VLA models and RL/IL frameworks for Franka and da Vinci surgical robots. Strong background in SLAM, kinematics/dynamics, and control theory.
 
 
 <!-- I am a Ph.D. student in Biomedical Engineering at [University of Alberta](https://www.ualberta.ca/en/index.html) under the supervision of [Dr. Jun Jin](https://apps.ualberta.ca/directory/person/jjin5) and [Dr. Mahdi Tavakoli](https://www.ece.ualberta.ca/~mtavakol/pmwiki/). Currently, I focus on spatial vision-language-action model  -->
