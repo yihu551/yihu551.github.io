@@ -8,11 +8,11 @@ image:
   preview_only: true
   placement: 3
 slides: example
-summary: Zero-shot experiment for Openvla and Pi0 model checkpoints
+summary: Finetune Vision-Language-Action Model (Pi0.5)
 tags:
 # - Personal
 - AutoRobot
-title:  Vision-Language-Action Model Zero-shot Testing
+title:  Finetune Vision-Language-Action Model
 # links:
 #   - icon_pack: fas
 #     icon: scroll
@@ -24,10 +24,10 @@ layout: "single"
 
 
 
-{{< video src="vla_validation.mp4" >}}
+{{< video src="pi0.mp4" >}}
 
 
 
 <!-- Research associate on the MicroSep project since September 2025. -->
 
-Zero-shot experiment for Openvla and Pi0 model checkpoints. The task instruction is "pick up orange and place it on plate". Although both models failed, it shows that Pi0 model performs better than OpenVLA model.
+Finetune vision-language-model model Pi0.5 on real-world robot dataset. Robot Task: grasp the salt box
