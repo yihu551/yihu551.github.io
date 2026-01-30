@@ -8,11 +8,11 @@
 &lt;source src="./news/vla_validation/pi0.mp4" type="video/mp4">
 &lt;/video>
 &lt;!-- Research associate on the MicroSep project since September 2025. -->
-&lt;p>Finetune vision-language-model model Pi0.5 on real-world robot dataset. Robot Task: grasp the salt box&lt;/p></description></item><item><title>OpenVLA/Pi0 with Spatial Module</title><link>https://yihu551.github.io/news/vla_libero.html</link><pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/vla_libero.html</guid><description>
+&lt;p>Finetune vision-language-model model Pi0.5 on real-world robot dataset. Robot Task: grasp the salt box&lt;/p></description></item><item><title>Pi0.5 with Spatial Module</title><link>https://yihu551.github.io/news/vla_libero.html</link><pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/vla_libero.html</guid><description>
 &lt;video autoplay loop >
-&lt;source src="./news/vla_libero/vla_libero.mp4" type="video/mp4">
+&lt;source src="./news/vla_libero/pi05_libero.mp4" type="video/mp4">
 &lt;/video>
-&lt;p>Vision-language-action model integrated with spatial module, designed with causal attention and mixture-of-expert mechanism. Testing the model in Libero Spatial environment.&lt;/p></description></item><item><title>Transfer Human Daily Skills to Surgical Robot Tasks</title><link>https://yihu551.github.io/news/adlsurg.html</link><pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/adlsurg.html</guid><description>
+&lt;p>Vision-language-action model (Pi0.5) integrated with spatial module, designed with causal attention and mixture-of-expert mechanism. Testing the model in Libero Spatial environment.&lt;/p></description></item><item><title>Transfer Human Daily Skills to Surgical Robot Tasks</title><link>https://yihu551.github.io/news/adlsurg.html</link><pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/adlsurg.html</guid><description>
 &lt;video autoplay loop >
 &lt;source src="./news/adlsurg/ADL.mp4" type="video/mp4">
 &lt;/video>
