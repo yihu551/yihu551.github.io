@@ -8,11 +8,11 @@ image:
   preview_only: true
   placement: 3
 slides: example
-summary: OpenVLA/Pi0 with spatial module 
+summary: Pi0.5 with Spatial Module 
 tags:
 # - Personal
 - AutoRobot
-title: OpenVLA/Pi0 with Spatial Module 
+title: Pi0.5 with Spatial Module 
 # links:
 #   - icon_pack: fas
 #     icon: scroll
@@ -24,8 +24,8 @@ layout: "single"
 
 
 
-{{< video src="vla_libero.mp4" >}}
+{{< video src="pi05_libero.mp4" >}}
 
-Vision-language-action model integrated with spatial module, designed with causal attention and mixture-of-expert mechanism. Testing the model in Libero Spatial environment.
+Vision-language-action model (Pi0.5) integrated with spatial module, designed with causal attention and mixture-of-expert mechanism. Testing the model in Libero Spatial environment.
 
 
