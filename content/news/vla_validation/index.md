@@ -24,10 +24,10 @@ layout: "single"
 
 
 
-{{< video src="pi0.mp4" >}}
+{{< video src="pi0_libero.mp4" >}}
 
 
 
 <!-- Research associate on the MicroSep project since September 2025. -->
 
-Finetune vision-language-model model Pi0.5 on real-world robot dataset. Robot Task: grasp the salt box
+Finetune vision-language-model model Pi0.5 on real-world robot dataset. Robot Task: grasp the salt box, grasp the black bag
