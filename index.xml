@@ -5,10 +5,10 @@
 &lt;!-- Research associate on the MicroSep project since September 2025. -->
 &lt;p>Developed a diffusion-based imitation learning framework with probabilistic dynamic movement primitives that distills multi-step denoising into a single-step inference process, enabling fast action generation and validated on a robotic ball-catching task.&lt;/p></description></item><item><title>Finetune Vision-Language-Action Model</title><link>https://yihu551.github.io/news/vla_validation.html</link><pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/vla_validation.html</guid><description>
 &lt;video autoplay loop >
-&lt;source src="./news/vla_validation/pi0.mp4" type="video/mp4">
+&lt;source src="./news/vla_validation/pi05_realworld.mp4" type="video/mp4">
 &lt;/video>
 &lt;!-- Research associate on the MicroSep project since September 2025. -->
-&lt;p>Finetune vision-language-model model Pi0.5 on real-world robot dataset. Robot Task: grasp the salt box&lt;/p></description></item><item><title>Pi0.5 with Spatial Module</title><link>https://yihu551.github.io/news/vla_libero.html</link><pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/vla_libero.html</guid><description>
+&lt;p>Finetune vision-language-model Pi0.5 on real-world robot dataset. Robot Task: grasp the salt box, grasp the black bag&lt;/p></description></item><item><title>Pi0.5 with Spatial Module</title><link>https://yihu551.github.io/news/vla_libero.html</link><pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/vla_libero.html</guid><description>
 &lt;video autoplay loop >
 &lt;source src="./news/vla_libero/pi05_libero.mp4" type="video/mp4">
 &lt;/video>
