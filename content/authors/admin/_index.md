@@ -46,11 +46,11 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:hu19@ualberta.ca
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/simongravelle
-  #   display:
-  #     header: false
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/yihu19
+    display:
+      header: false
   # - icon: mastodon
   #   icon_pack: fab
   #   link: https://mastodon.social/@simongravelle
