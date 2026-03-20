@@ -144,22 +144,26 @@ Fuzzy neural network approximator
 &lt;source src="./news/admittance/admittance.mp4" type="video/mp4">
 &lt;/video>
 &lt;!-- Research associate on the MicroSep project since September 2025. -->
-&lt;p>We utilize admittance controller for human-robot compliance interaction, especially for collecting breast seroma ultrasound scanning dataset.&lt;/p></description></item><item><title>Hand Tracking Teleoperation</title><link>https://yihu551.github.io/news/handrobot.html</link><pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/handrobot.html</guid><description>
+&lt;p>We utilize admittance controller for human-robot compliance interaction, especially for collecting breast seroma ultrasound scanning dataset.&lt;/p></description></item><item><title>Teleoperation via Meta Quest3</title><link>https://yihu551.github.io/news/metaquest.html</link><pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/metaquest.html</guid><description>
 &lt;video autoplay loop >
-&lt;source src="./news/handrobot/handrobot.mp4" type="video/mp4">
+&lt;source src="./news/metaquest/metaquest.mp4" type="video/mp4">
 &lt;/video>
-&lt;!-- Research associate on the MicroSep project since September 2025. -->
-&lt;p>Collecting dataset using hand tracking teleoperation for Franka robot, which can be used in training foundation model and imitation learning framework.&lt;/p></description></item><item><title>Kinesthic Operation</title><link>https://yihu551.github.io/news/kinethetic.html</link><pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/kinethetic.html</guid><description>
-&lt;video autoplay loop >
-&lt;source src="./news/kinethetic/Kinethetic.mp4" type="video/mp4">
-&lt;/video>
-&lt;!-- Research associate on the MicroSep project since September 2025. -->
-&lt;p>Collecting dataset using admittance control for Franka robot, which can be used in training foundation model and imitation learning framework.&lt;/p></description></item><item><title>Joystick Teleoperation</title><link>https://yihu551.github.io/news/joystick_tele.html</link><pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/joystick_tele.html</guid><description>
+&lt;p>Collecting dataset using meta quest 3 teleoperation for Franka robot, which can be used in training foundation model and imitation learning framework.&lt;/p></description></item><item><title>Joystick Teleoperation</title><link>https://yihu551.github.io/news/joystick_tele.html</link><pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/joystick_tele.html</guid><description>
 &lt;video autoplay loop >
 &lt;source src="./news/joystick_tele/joystick.mp4" type="video/mp4">
 &lt;/video>
 &lt;!-- Research associate on the MicroSep project since September 2025. -->
-&lt;p>Collecting dataset using joystick teleoperation for Franka robot, which can be used in training foundation model and imitation learning framework.&lt;/p></description></item><item><title>Learning from imperfect demonstrations in a surgical training task</title><link>https://yihu551.github.io/publications/2026_learning_from_imperfect_demonstrations.html</link><pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/publications/2026_learning_from_imperfect_demonstrations.html</guid><description/></item><item><title>Pretraining Using Comparable Human Activities of Daily Living Dataset in Robotic Surgical Task Learning</title><link>https://yihu551.github.io/publications/2025_pretraining_using_comparable_human_activities.html</link><pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/publications/2025_pretraining_using_comparable_human_activities.html</guid><description/></item><item><title/><link>https://yihu551.github.io/gallery/systems.html</link><pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/gallery/systems.html</guid><description>&lt;h2 id="systems-that-interest-me">Systems that interest me&lt;/h2>
+&lt;p>Collecting dataset using joystick teleoperation for Franka robot, which can be used in training foundation model and imitation learning framework.&lt;/p></description></item><item><title>Kinesthic Operation</title><link>https://yihu551.github.io/news/kinethetic.html</link><pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/kinethetic.html</guid><description>
+&lt;video autoplay loop >
+&lt;source src="./news/kinethetic/Kinethetic.mp4" type="video/mp4">
+&lt;/video>
+&lt;!-- Research associate on the MicroSep project since September 2025. -->
+&lt;p>Collecting dataset using admittance control for Franka robot, which can be used in training foundation model and imitation learning framework.&lt;/p></description></item><item><title>Hand Tracking Teleoperation</title><link>https://yihu551.github.io/news/handrobot.html</link><pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/news/handrobot.html</guid><description>
+&lt;video autoplay loop >
+&lt;source src="./news/handrobot/handrobot.mp4" type="video/mp4">
+&lt;/video>
+&lt;!-- Research associate on the MicroSep project since September 2025. -->
+&lt;p>Collecting dataset using hand tracking teleoperation for Franka robot, which can be used in training foundation model and imitation learning framework.&lt;/p></description></item><item><title>Learning from imperfect demonstrations in a surgical training task</title><link>https://yihu551.github.io/publications/2026_learning_from_imperfect_demonstrations.html</link><pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/publications/2026_learning_from_imperfect_demonstrations.html</guid><description/></item><item><title>Pretraining Using Comparable Human Activities of Daily Living Dataset in Robotic Surgical Task Learning</title><link>https://yihu551.github.io/publications/2025_pretraining_using_comparable_human_activities.html</link><pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/publications/2025_pretraining_using_comparable_human_activities.html</guid><description/></item><item><title/><link>https://yihu551.github.io/gallery/systems.html</link><pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate><guid>https://yihu551.github.io/gallery/systems.html</guid><description>&lt;h2 id="systems-that-interest-me">Systems that interest me&lt;/h2>
 &lt;ul>
 &lt;li>Soft matter systems, such as polymers and proteins&lt;/li>
 &lt;li>Fluids in confined environments or near interfaces&lt;/li>
