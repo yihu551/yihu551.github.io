@@ -1,6 +1,6 @@
 ---
-date: 2025-08-22
-publishDate: 2025-08-22
+date: 2025-08-24
+publishDate: 2025-08-24
 external_link: ""
 image:
   caption: VLA Realworld Validation

@@ -1,6 +1,6 @@
 ---
-date: 2025-08-
-publishDate: 2025-08-23
+date: 2025-08-26
+publishDate: 2025-08-26
 external_link: ""
 image:
   caption: Surgical Robot image showing111111
