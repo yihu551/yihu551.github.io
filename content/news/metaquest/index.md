@@ -11,7 +11,7 @@ slides: example
 summary: Teleoperation via Meta Quest3 
 tags:
 # - Personal
-- AutoRobot
+- DatasetCollection
 title: Teleoperation via Meta Quest3 
 # links:
 #   - icon_pack: fas
