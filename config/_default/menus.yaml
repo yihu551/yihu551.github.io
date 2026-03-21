@@ -21,9 +21,9 @@ main:
   # - name: About Me
   #   url: '#aboutme'
   #   weight: 50
-  - name: Resume
-    url: "files/resume/Yi_Resume.pdf"
-    weight: 60
+  # - name: Resume
+  #   url: "files/resume/Yi_Resume.pdf"
+  #   weight: 60
   - name: Contact Me
     url:  '#contact'
     weight: 70

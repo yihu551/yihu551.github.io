@@ -76,13 +76,6 @@ highlight_name: true # Highlight the author in author lists? (true/false)
 I am a Ph.D. candidate in Biomedical Engineering at [University of Alberta](https://www.ualberta.ca/en/index.html) under the supervision of [Dr. Jun Jin](https://apps.ualberta.ca/directory/person/jjin5) and [Dr. Mahdi Tavakoli](https://apps.ualberta.ca/directory/person/mtavakol). PhD researcher specialized in embodied AI and surgical robotics. Developed VLA models and RL/IL frameworks for Franka and da Vinci surgical robots. Strong background in SLAM, kinematics/dynamics, and control theory.
 
 
-<!-- I am a Ph.D. student in Biomedical Engineering at [University of Alberta](https://www.ualberta.ca/en/index.html) under the supervision of [Dr. Jun Jin](https://apps.ualberta.ca/directory/person/jjin5) and [Dr. Mahdi Tavakoli](https://www.ece.ualberta.ca/~mtavakol/pmwiki/). Currently, I focus on spatial vision-language-action model  -->
-
-
-<!-- I developed comprehensive background on robotic control from 3D modeling, control system design from dynamic and kinematic side, and intelligent method from deep neural network side. During my undergraduate study, I focused on the 3D modeling and physical simulation in which using Solidworks, AutoCAD, Analysis and Comsol. In my master study, I was working on the closed-loop control system design via Liyapunour proof, like adpative control, fuzzy control, model predictive control and backstep control. In my Ph.D study, I was working on the surgical robotic task autonomy using imitation learning, like ultrasoound scanning, endoscopic scanning, endoscopic traking and retreive picking, was deployed on the Panda robot, and Da Vinci robot. My current research interests forcus on Embodied AI, Imitation Learning and Reinbforcement learning. Exploring the spatial ability with vision language action model on robotic daily task.  -->
-
-
-
 
 <!-- <a href="https://github.com/simongravelle" target="_blank" style="float: right">
   <img src="https://raw.githubusercontent.com/simongravelle/simongravelle.github.io/refs/heads/main/static/img/water-in-polymer.png" alt="Water in polymer - molecular dynamics" width="200">
